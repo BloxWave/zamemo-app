@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564356049950",
+    "project_id": "zamemo-30e45",
+    "storage_bucket": "zamemo-30e45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564356049950:android:f63bb8be5dc2c99efad20f",
+        "android_client_info": {
+          "package_name": "com.example.zamemo_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjSUogKpMEhrji7zGpoJ8oAkVmnk7OEFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
